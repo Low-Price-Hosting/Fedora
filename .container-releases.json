@@ -1,0 +1,16 @@
+[
+  {
+    "version": "43",
+    "branch": "f43",
+    "bootstrap": "registry.fedoraproject.org/fedora:43",
+    "aliases": []
+  },
+  {
+    "version": "44",
+    "branch": "f44",
+    "bootstrap": "registry.fedoraproject.org/fedora:44",
+    "aliases": [
+      "latest"
+    ]
+  }
+]
