@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "distribution": "Fedora",
+  "upstream": "https://forge.fedoraproject.org/releng/kiwi-descriptions.git",
+  "ref": "f45",
+  "revision": "daf359394913068f4fc18a8b7aafc404caeb8257"
+}
