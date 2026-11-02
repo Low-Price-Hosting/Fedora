@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "distribution": "Fedora",
+  "upstream": "https://forge.fedoraproject.org/releng/kiwi-descriptions.git",
+  "ref": "rawhide",
+  "revision": "eedb86620040a06d71e0118dffcbe9df4c2d4add"
+}
